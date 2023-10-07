@@ -16,4 +16,4 @@ Respective conversions are displayed in new popup.
 The Close button then can be used to close the application.
 <br>
 
-Autrhor:-Deepak Kumar Thakur
+Author:-Deepak Kumar Thakur
